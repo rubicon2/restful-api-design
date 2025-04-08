@@ -20,13 +20,16 @@
   "homepage": "https://github.com/rubicon2/restful-api-design#readme",
   "devDependencies": {
     "@eslint/js": "^9.24.0",
+    "@faker-js/faker": "^9.6.0",
     "eslint": "^9.24.0",
     "eslint-config-prettier": "^10.1.1",
     "globals": "^16.0.0",
     "prettier": "^3.5.3"
   },
   "dependencies": {
+    "apicache": "^1.6.3",
     "dotenv": "^16.4.7",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
   }
 }
